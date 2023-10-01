@@ -46,11 +46,11 @@ footer{
 	grid-area: f;
 	background-color: yellowgreen;
 }
-article{
+.content>article{
 	padding: 1em;
 	grid-area: art;
 }
-aside{
+.content>aside{
 	padding: 1em;
 	grid-area: a;
 }
