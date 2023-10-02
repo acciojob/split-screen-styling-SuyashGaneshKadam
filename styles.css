@@ -49,10 +49,10 @@ footer{
 .content>article{
 	padding: 1em;
 	grid-area: art;
-	width: 75%;
+/* 	width: 75%; */
 }
 .content>aside{
 	padding: 1em;
 	grid-area: a;
-	width: 25%;
+/* 	width: 25%; */
 }
