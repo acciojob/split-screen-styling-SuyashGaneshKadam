@@ -28,7 +28,7 @@ main{
 	"c"
 	"f";
 }
-#content{
+.content{
 	padding: 1em;
 	grid-area: c;
 	display: grid;
